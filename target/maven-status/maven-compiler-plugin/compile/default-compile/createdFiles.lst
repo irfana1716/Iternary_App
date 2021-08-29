@@ -1,0 +1,7 @@
+com\weather\management\service\WeatherReportManagementService.class
+com\weather\management\model\WeatherReportModel.class
+com\weather\management\service\impl\WeatherReportManagementServiceImpl.class
+com\weather\management\repository\WeatherReportManagementRepository.class
+com\weather\management\entity\Iternary.class
+com\weather\management\WeatherReportManagementApplication.class
+com\weather\management\controller\WeatherReportManagementController.class
